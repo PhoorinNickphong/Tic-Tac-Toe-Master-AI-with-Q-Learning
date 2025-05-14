@@ -91,7 +91,3 @@ This project is great for:
 Developed by [PhoorinNickphong](https://github.com/PhoorinNickphong)
 
 ---
-
-## 📄 License
-
-This project is for educational purposes only and is currently not licensed.
